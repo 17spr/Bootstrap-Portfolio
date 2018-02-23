@@ -1,8 +1,8 @@
-.row {
+#portfolio-row {
     margin: 50px;
 }
 
-img {
+#node-app {
     width: 100%;
     height: auto;
 }
