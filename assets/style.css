@@ -6,3 +6,16 @@
     width: 100%;
     height: auto;
 }
+
+body {
+    padding-top: 40px;
+}
+.social {
+width: 62px;
+height: 62px;
+}
+
+.img-thumbnail {
+max-width: 100%;
+height: auto;
+}
